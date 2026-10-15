@@ -1,5 +1,5 @@
-<h1 align="center">Hola, me llamo César Alonso</h1>
-<h3 align="center">Apasionado por el desarrollo software 🤓</h3>
+<h1 align="center">Hola, me llamo César Alonso 👋</h1>
+<h3 align="center">Apasionado por el desarrollo software 🤓💻</h3>
 
 Lic. en Sistemas Computacionales, con conocimientos en desarrollo de software. Cuento con experiencia en proyectos académicos y personales donde he aplicado mis habilidades en la creación de soluciones tecnológicas. Me considero una persona responsable, proactiva y con gran disposición para aprender y aportar valor en un entorno laboral.
 
